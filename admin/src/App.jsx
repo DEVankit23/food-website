@@ -11,7 +11,7 @@ import 'react-toastify/dist/ReactToastify.css'
 
 const App = () => {
 
-  const url = "https://food-website-backend-m3tc.onrender.com"
+  const url = 'https://food-website-backend-m3tc.onrender.com'
   return (
     <div>
       <ToastContainer />
